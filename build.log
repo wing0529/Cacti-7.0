@@ -1,0 +1,3 @@
+make[1]: Entering directory '/workspace/Cacti-7.0'
+cp -f obj_dbg/cacti cacti
+make[1]: Leaving directory '/workspace/Cacti-7.0'
