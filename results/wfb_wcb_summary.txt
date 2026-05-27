@@ -1,4 +1,4 @@
-CACTI executable: ./cacti
-Config: 256B, 32B line, associativity 1, cache type ram, UCA, 1 RW port, 256-bit bus, normal access, ECC false
-WFB area_mm2=0.00187842 read_nJ=0.00181371 write_nJ=0.00166384 leakage_mW=0.142947 access_ns=0.0503638 cycle_ns=0.054105
-WCB area_mm2=0.00187842 read_nJ=0.00181371 write_nJ=0.00166384 leakage_mW=0.142947 access_ns=0.0503638 cycle_ns=0.054105
+Direct CACTI run, no script
+Config: 256B, 32B line, associativity 1, cache type ram, UCA, 1 RW port, 256-bit bus, normal access, ECC false, technology 32nm
+WFB area_mm2=0.00395521 read_nJ=0.00368001 write_nJ=0.00331793 leakage_mW=0.265669 access_ns=0.0859991 cycle_ns=0.0959644
+WCB area_mm2=0.00395521 read_nJ=0.00368001 write_nJ=0.00331793 leakage_mW=0.265669 access_ns=0.0859991 cycle_ns=0.0959644
